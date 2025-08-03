@@ -8,5 +8,13 @@
 - Motivational video of alumni of batch 2025( Sangam Arora and Arshdeel Singh)
 - Harsimaran adressed regarding college infrastructure.
 - Adresses by
-- 
+• Dr. Sehijal Singh (Principal)
+• Dr. Harpreet Kaur Grewal ( Hod, Applied Sciences)
+• Dr.Akshay Gidhar ( Dean Academics
+• Dr. Parminder Singh ( Dean student )
+- Guest of Honour
+• Er Ravinder Garg ( Chief Engineer at Municipal corporation, Ludhiana)
+• Er Rakesh Kumar - GNDEC alumni ( Batch 1991 ) ADC Ludhiana
+- Vote of thanks by Dr. K.S.Mann , HOD IT 
+ 
 
