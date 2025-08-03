@@ -16,5 +16,20 @@
 • Er Ravinder Garg ( Chief Engineer at Municipal corporation, Ludhiana)
 • Er Rakesh Kumar - GNDEC alumni ( Batch 1991 ) ADC Ludhiana
 - Vote of thanks by Dr. K.S.Mann , HOD IT 
- 
+ ## 2:00 to 4:00 
+ Department Visit 
+
+ # Day 2
+ ## 9:30 to 11:30 
+ English and Maths proficiency Test
+ ## 1:00 onwards 
+ - Buddy4study team Presentation
+ - Exper lecture by Dr. Arshdeep Singh on " Food : A Pivotal Role in student's wellness "
+
+# Day 3 
+## 9:30 to 11: 30
+- Expert lecture by Dr. Jaswinder Singh ( Incharge of IAPT )
+## 11:30 to 1 :30 
+- Expert Lecture by Dr. Priya Darshni on " Universal Human Values"
+
 
