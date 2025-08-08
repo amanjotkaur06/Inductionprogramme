@@ -18,8 +18,10 @@ The event ended with vote of thanks by Dr. K.S.Mann ( HOD IT) The entire environ
 # Day 2  Test and scholarship.
 - English proficiency test
 - Maths proficiency test
+
   ***Expert lecture by Dr. Arshdeep Singh on "Food : A vital role in students overall wellness )***
-  Food is the basic necessity of life. It is not just something we eat to satisfy hunger, but it plays a vital role in our physical, mental, and emotional well-being. A balanced and nutritious diet helps in proper growth, development, and maintaining a healthy lifestyle.Making healthy food choices leads to a healthy body and mind.
+
+   Food is the basic necessity of life. It is not just something we eat to satisfy hunger, but it plays a vital role in our physical, mental, and emotional well-being. A balanced and nutritious diet helps in proper growth, development, and maintaining a healthy lifestyle.Making healthy food choices leads to a healthy body and mind.
 
   # Satya scholarship
   - The main aim of the Satya Scholarship is to provide financial support to deserving students from economically weaker sections who have passed Class 12 from Ludhiana district and wish to pursue professional courses in higher education.
@@ -57,7 +59,7 @@ We also heard about the 1984 Punjab crisis and how brave individuals stood up fo
 # **NEPTEL**
 we learned about NPTEL, a platform that allows us to study directly from IIT professors — a dream for many students. Over 3 lakh learners are already enrolled. We were guided on how to register, explore various courses, and earn academic credits. The opportunity to access quality IIT-level education .
 
-
+# Evening 
  **CML: Center for multi learning)**
  Dr. lakhvir singh lightened us regarding cml.CML  focuses on skill development, creativity, and hands-on learning. It encourages students to explore innovative ideas through  communication, teamwork, and practical knowledge, helping students enhance their technical and soft skills for better career opportunities and all-round development.
 
@@ -74,7 +76,7 @@ The day ended with  Dr. Arvind dingra thought he spoke less than 10 minutes but 
   Sir  guided us regarding marks, exam dates, and student ID access through the admission portal. He explained how to shift to the academic portal and where to find our syllabus and subjects. He also addressed student welfare and encouraged us to participate in cultural fests. He said to  focus on both academics and creativity. The session was informative and motivated us to stay active and innovative in college life.
 
   # Conclusion
-  The induction programme at GNDEC is a successful bridge between school and college.  Through interactive session, expert talk and campus activities we learn a sense of excellence.  It helped us to learn values, discipline and opportunities. I am pleased to be a part of this prestigious and antonoumous college.  I am excited to start my academic journey.
+  The induction programme at GNDEC is a successful bridge between school and college.  Through interactive session, expert talk and campus activities we learn a sense of excellence.  It helped us to learn values, discipline and opportunities. I am pleased to be a part of this prestigious and antonoumous college.  I look forward to start my journey with excellence.
 
   
 
