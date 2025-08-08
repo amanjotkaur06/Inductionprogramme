@@ -8,7 +8,7 @@ Dr. Harpreet Kaur Grewal ( HOD of applied science) welcome us with a heartful we
 
 Dr. Sehjipal Singh ( Principal) highlights GNDEC academic stren6and key highlights of success alumni. He told us to make the best use of our strength. Followed by the speech of Dr. Akshay Gidhar ( Dean Academics) and Dr. Parwinder Singh ( Dean student welfare) motivated us .
 
-#**Guest of Honour** 
+# **Guest of Honour**
 - Er. Ravinder Garg ( Chief Engineer, Municipal corporation ludhiana) told us to enjoy the life till a limit, be sincere regarding your studies. Er. Rajesh Kumar (GNDEC Alumns) Batch 1991 share his experience and memories at gndec ,  that encouraged us .
 
 The function concluded with Ashok Singla ( Financial Advisor) . He introduced student regarding Laxmi scholarship that help students who face financial barriers in pursuing education. Beyond scholarship, he guided us making smart financial movement of saving, budgeting and spending wisely.
@@ -18,10 +18,10 @@ The event ended with vote of thanks by Dr. K.S.Mann ( HOD IT) The entire environ
 # Day 2  Test and scholarship.
 - English proficiency test
 - Maths proficiency test
-  #**Expert lecture by Dr. Arshdeep Singh on "Food : A vital role in students overall wellness )**
+  ***Expert lecture by Dr. Arshdeep Singh on "Food : A vital role in students overall wellness )***
   Food is the basic necessity of life. It is not just something we eat to satisfy hunger, but it plays a vital role in our physical, mental, and emotional well-being. A balanced and nutritious diet helps in proper growth, development, and maintaining a healthy lifestyle.Making healthy food choices leads to a healthy body and mind.
 
-  #**Satya scholarship**
+  # Satya scholarship
   - The main aim of the Satya Scholarship is to provide financial support to deserving students from economically weaker sections who have passed Class 12 from Ludhiana district and wish to pursue professional courses in higher education.
 
 # Day 3 : Full of learning and interaction , Github 
@@ -30,17 +30,17 @@ The event ended with vote of thanks by Dr. K.S.Mann ( HOD IT) The entire environ
 
 He is awarded the shiksa ratan award.
   We attended a motivational lecture by S. Jaswinder Singh Sir, who began by explaining the meaning of "Sat Shri Akal" and shared Guru Nanak Dev Ji’s teachings, including the deep meaning of ‘1’ that means ' Ik Onkar '. He discussed his educational journey, lifelong learning and practical knowledge . We also participated in science-related activities. He concluded by explaining that “Bhawan” means a sacred space of learning and truth. He also shared a trick to remember the no. of bones in body.
-#**( Universal Human Values)**
+# ( Universal Human Values)
 
 By Dr. priya Darshni .Universal human values are essential for leading a peaceful and meaningful life. These include the right understanding of relationships based on mutual respect and trust, finding happiness in small moments, and spending quality time with family and friends. Self-introspection, or having regular talk sessions with ourselves, helps us understand our thoughts and emotions better. It is equally important to spend time alone, which brings relaxation and emotional clarity. These values guide us to live with love, kindness, and balance. Practicing them daily helps us grow as responsible and compassionate individuals in society.
-  **Introduced to Github**
+  # Introduced to Github
 So the day ended with the senior that introduced us with Github , with their help.we set up our first repository, marking an important step in our journey as budding developers. This  introduction was both practical and exciting, providing us with a foundational skill that will be crucial throughout our academic and professional careers.
 
 # Day 4 
 #**Universal Human Values** 
 
 Desires are a part of life—like wearing nice clothes or eating tasty food—but not all desires are necessary. For example, eating fast food satisfies our taste but harms our health. Such habits are unhealthy. On the other hand, good food and natural living support our well-being. We must learn to follow our natural acceptance.Choosing health over desire, and listening to our inner understanding, helps us live a better and more balanced life—not just following what we see outside.
-**Evening: Causmic Club**
+# Evening: Causmic Club
 After a short break, we attended a session led by members of the Causmic club. This lecture introduced us to GNDEC's Apex program, highlighting the benefits and opportunities it offers. The Causmic club members also shared information about upcoming events .This lecture highlights the vibrant events .
 
 # Day 5  Day full of learning.
@@ -72,6 +72,9 @@ The day ended with  Dr. Arvind dingra thought he spoke less than 10 minutes but 
 
 - Dr. Randhir Singh ( Conduct of examination)
   Sir  guided us regarding marks, exam dates, and student ID access through the admission portal. He explained how to shift to the academic portal and where to find our syllabus and subjects. He also addressed student welfare and encouraged us to participate in cultural fests. He said to  focus on both academics and creativity. The session was informative and motivated us to stay active and innovative in college life.
+
+  # Conclusion
+  The induction programme at GNDEC is a successful bridge between school and college.  Through interactive session, expert talk and campus activities we learn a sense of excellence.  It helped us to learn values, discipline and opportunities. I am pleased to be a part of this prestigious and antonoumous college.  I am excited to start my academic journey.
 
   
 
