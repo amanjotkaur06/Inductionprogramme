@@ -1,3 +1,4 @@
+# Stepping into Engineering: GNDEC Induction Story 
 # Day 1 Begining of Induction Programme 
 The day started with path and kirtan at the Gurudwara sahib  situated in college campus. The beginning of new and exciting chapter of our life.
 
@@ -53,6 +54,10 @@ We also heard about the 1984 Punjab crisis and how brave individuals stood up fo
  # History legacy: 
  Guru Nanak Dev Engineering College (GNDEC), Ludhiana was established in 1956 by the Nankana Sahib Education Trust to uplift rural youth through technical education. Managed by SGPC since 1967, it is AICTE-approved and NAAC-accredited. GNDEC promotes academic excellence, skill development serving in Punjab education.
 
+# **NEPTEL**
+we learned about NPTEL, a platform that allows us to study directly from IIT professors — a dream for many students. Over 3 lakh learners are already enrolled. We were guided on how to register, explore various courses, and earn academic credits. The opportunity to access quality IIT-level education .
+
+
  **CML: Center for multi learning)**
  Dr. lakhvir singh lightened us regarding cml.CML  focuses on skill development, creativity, and hands-on learning. It encourages students to explore innovative ideas through  communication, teamwork, and practical knowledge, helping students enhance their technical and soft skills for better career opportunities and all-round development.
 
@@ -63,10 +68,13 @@ The day ended with  Dr. Arvind dingra thought he spoke less than 10 minutes but 
  **Lecture By**
  - Dr. Amit Kamra ( Incharge of DMC)
    Digial marketing club. A club that handles all social marketing pages.
-He shared glimpse of student work that was fabulous. He started this club in 2024.He want to take gne at next level.
+ Sir shared that the initiative began in 2024 and is personally managed by him through GNDEC's social media pages. He showed us his own student’s impressive work in editing and design, which was truly inspiring. Sir also guided us on how to join DMC and become part of the creative media team. The session was motivating and sparked interest in content creation and media innovation.
 
-- Dr. Randhir Singh
-He concluded about the gndec official website regarding the examination. 
+- Dr. Randhir Singh ( Conduct of examination)
+  Sir  guided us regarding marks, exam dates, and student ID access through the admission portal. He explained how to shift to the academic portal and where to find our syllabus and subjects. He also addressed student welfare and encouraged us to participate in cultural fests. He said to  focus on both academics and creativity. The session was informative and motivated us to stay active and innovative in college life.
+
+  
+
 
 
  
